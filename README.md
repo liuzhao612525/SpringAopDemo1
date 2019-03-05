@@ -1,2 +1,2 @@
 # SpringAopDemo1
-Spring的aop配置学习demo
+基于配置的aop操作学习demo
